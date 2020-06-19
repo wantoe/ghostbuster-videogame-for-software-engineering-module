@@ -1,5 +1,5 @@
 # ghostbuster-videogame-for-software-engineering-module
-A videogame called ghostbuster and associated documentation of software development process and product information. A Bath CS MSc Software Engineering group assignment. This was created by myself in a team of 6. 
+A videogame called ghostbuster and associated documentation of software development process and product information. A Bath CS MSc Software Engineering group assignment. This is a 2D game built using Unity, was created by myself in a team of 6. 
 
 # How to use?
 download and unzip GhostbustersTutorial.zip , then open Ghostbuster.exe
